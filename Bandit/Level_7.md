@@ -8,8 +8,8 @@
 
 ***Goal:** Find the password for Level 7, which is stored in a file that is:*
 
-- *owned by the user bandit7.*
-- *owned by the group bandit6.*
+- *owned by the user `bandit7`.*
+- *owned by the group `bandit6`.*
 - *exactly 33 bytes in size.*
 
 ***SSH:** ssh bandit6@bandit.labs.overthewire.org -p 2220*
