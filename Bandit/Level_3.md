@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 3:** https://overthewire.org/wargames/bandit/bandit3.html*
 
-***Goal:** Retrieve the password for Level 3, stored in a file named spaces in this filename in the home directory.*
+***Goal:** Retrieve the password for Level 3, stored in a file named `spaces in this filename` in the home directory.*
 
 ***SSH:** ssh bandit2@bandit.labs.overthewire.org -p 2220*
 
