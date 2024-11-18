@@ -1,4 +1,5 @@
 # Bandit Level 1 Walkthrough
+***https://medium.com/@anshumansingh_71873/overthewire-wargames-a8999aba43d2***
 
 ![image](https://github.com/user-attachments/assets/5c0f6dbd-dc13-4270-acdb-91b684f19d99)
 
