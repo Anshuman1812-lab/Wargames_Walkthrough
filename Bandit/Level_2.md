@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 2:** https://overthewire.org/wargames/bandit/bandit2.html*
 
-***Goal:** Retrieve the password for Level 2, stored in a file named - (dash) in the home directory.*
+***Goal:** Retrieve the password for Level 2, stored in a file named `-` (dash) in the home directory.*
 
 ***SSH:** ssh bandit1@bandit.labs.overthewire.org -p 2220*
 
