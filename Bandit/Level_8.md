@@ -23,7 +23,7 @@
 ## Solution
 1. **Locate the `data.txt` File:**
    
-Start by ensuring you’re in the correct directory where data.txt is located, which is usually the home directory (~). Confirm that `data.txt` is listed.
+Start by ensuring you’re in the correct directory where data.txt is located, which is usually the home directory (`~`). Confirm that `data.txt` is listed.
 
 ![image](https://github.com/user-attachments/assets/d408c8dd-b1e0-42c2-9c9b-fdcbb7da430c)
 
