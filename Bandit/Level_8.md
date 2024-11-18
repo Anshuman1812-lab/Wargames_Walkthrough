@@ -29,7 +29,7 @@ Start by ensuring you’re in the correct directory where data.txt is located, w
 
 2. **Search for the Keyword with `grep`:**
    
-Use `grep` to search within `data.txt` for lines containing the word “millionth.” This command will locate and display the line with the keyword:
+Use `grep` to search within `data.txt` for lines containing the word **millionth**. This command will locate and display the line with the keyword:
 
 ```bash
 grep "millionth" data.txt
