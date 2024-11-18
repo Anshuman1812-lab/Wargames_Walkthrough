@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 5:** https://overthewire.org/wargames/bandit/bandit5.html*
 
-***Goal:** Locate the password for Level 5, stored in the only human-readable file within the inhere directory.*
+***Goal:** Locate the password for Level 5, stored in the only human-readable file within the `inhere` directory.*
 
 ***SSH:** ssh bandit4@bandit.labs.overthewire.org -p 2220*
 
