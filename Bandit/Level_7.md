@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/f3dd98d0-aea8-4942-a3ac-1972d85d84c1)
 
 ## Solution
-1. **Using `findto` Search with Multiple Filters:**
+1. **Using `find` to Search with Multiple Filters:**
    
 Since the file is somewhere on the server, start from the root directory (`/`):
 
