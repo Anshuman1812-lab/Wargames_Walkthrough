@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 8:** https://overthewire.org/wargames/bandit/bandit8.html*
 
-***Goal:** Locate the password for `Level 8`, which is stored in the file data.txt and appears next to the word **millionth**.*
+***Goal:** Locate the password for Level 8, which is stored in the file `data.txt` and appears next to the word **millionth**.*
 
 ***SSH:** ssh bandit7@bandit.labs.overthewire.org -p 2220*
 
