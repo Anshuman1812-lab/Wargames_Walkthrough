@@ -1,5 +1,5 @@
 # Bandit Level 2 Walkthrough
-***(https://medium.com/@anshumansingh_71873/overthewire-wargames-88db005be0d4)***
+***https://medium.com/@anshumansingh_71873/overthewire-wargames-88db005be0d4***
 
 ![image](https://github.com/user-attachments/assets/982a09dd-13d4-4f3d-9333-35f2949b488f)
 
