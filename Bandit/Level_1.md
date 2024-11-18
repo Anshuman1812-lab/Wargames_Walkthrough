@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 1:** https://overthewire.org/wargames/bandit/bandit1.html*
 
-***Goal:** Retrieve the password for Level 1, which is stored in a file named readme located in the home directory of your Bandit Level 0 session.*
+***Goal:** Retrieve the password for Level 1, which is stored in a file named `readme` located in the home directory of your Bandit Level 0 session.*
 
 ***SSH:** ssh bandit0@bandit.labs.overthewire.org -p 2220*
 
