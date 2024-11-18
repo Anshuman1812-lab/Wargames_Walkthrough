@@ -1,5 +1,6 @@
 # Bandit Level 6 Walkthrough
 ***https://medium.com/@anshumansingh_71873/overthewire-wargames-72da98eb6e9d***
+
 ![image](https://github.com/user-attachments/assets/a8178ea6-c6b2-41da-84df-4961e0c72639)
 
 ## Level Overview
