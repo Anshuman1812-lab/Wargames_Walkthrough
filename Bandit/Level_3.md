@@ -27,7 +27,7 @@ Begin by listing the directory contents to verify the exact filename:
 
 ![image](https://github.com/user-attachments/assets/d6a6533e-4525-419c-a916-a1f043a52095)
 
-You should see the file named spaces in this filename.
+You should see the file named **`spaces in this filename`**.
 
 2. **Reading the File with Spaces in Its Name:**
    
