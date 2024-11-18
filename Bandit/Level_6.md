@@ -6,7 +6,7 @@
 ## Level Overview
 ***Bandit Level 6:** https://overthewire.org/wargames/bandit/bandit6.html*
 
-***Goal:** Find the password for Level 6, which is stored in a file located somewhere within the inhere directory. This file has three characteristics:*
+***Goal:** Find the password for Level 6, which is stored in a file located somewhere within the `inhere` directory. This file has three characteristics:*
 
 - *It is human-readable.*
 - *It is exactly 1033 bytes in size.*
