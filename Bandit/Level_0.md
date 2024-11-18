@@ -1,4 +1,5 @@
 # Bandit Level 0 Walkthrough
+***https://medium.com/@anshumansingh_71873/overthewire-bandit-walkthrough-level-0-solution-guide-8d07b2640bee***
 
 ![image](https://github.com/user-attachments/assets/bfe99f54-5c91-41b2-8b27-9ace1e9d20b1)
 
