@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/3739d88e-3f64-46ee-bebd-c8dd1b1a87f3)
 
 ## Level Overview
-***Bandit Level 23:** [https://overthewire.org/wargames/bandit/bandit23.html](https://overthewire.org/wargames/bandit/bandit23.html)*
+***Bandit Level 23:** https://overthewire.org/wargames/bandit/bandit23.html*
 
 ***Goal:** Identify the cron job for `bandit23`, examine the script it runs, and find the output that contains the password for Level 23.*
 
