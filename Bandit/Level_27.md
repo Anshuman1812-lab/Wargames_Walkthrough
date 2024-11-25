@@ -42,7 +42,7 @@ This tool allows you to execute commands as another user. This is similar to the
 Use the `bandit27-do` tool to read the password file for `bandit27`, which is located at `/etc/bandit_pass/bandit27`:
 
 ```bash
-bandit26@bandit:~$ ./bandit27-do cat /etc/bandit_pass/bandit27
+./bandit27-do cat /etc/bandit_pass/bandit27
 ```
 
 The command runs `cat` as the `bandit27` user, which prints the password.
