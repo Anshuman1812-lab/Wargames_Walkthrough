@@ -51,7 +51,7 @@ Once cloned, you should see a directory named `repo`:
 
 ![image](https://github.com/user-attachments/assets/1209b78f-e7fc-4710-ac12-a26ba9cb33c8)
 
-3. **Exploring the Repository*8
+3. **Exploring the Repository**
    
 Navigate into the newly cloned `repo` directory. Take a closer look at its contents. Use the `ls -la` command to list all files, including hidden ones, with detailed permissions:
 
